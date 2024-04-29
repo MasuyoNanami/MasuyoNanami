@@ -3,7 +3,7 @@
 - 🌱 I am currently learning java
 - 💞️ I'm not looking to collaborate on anything at the moment
 - 📫 How to contact me, by discord: masuyonanami
-- 😄 Pronouns: she - they
+- 😄 Pronouns: she/her - they/them
 - ⚡ Fun fact: I exist
 
 <!---
