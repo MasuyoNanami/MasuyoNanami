@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @MasuyoNanami
-- 👀 I am interested in learning
+- 👀 I am interested in learning java
 - 🌱 I am currently learning java
 - 💞️ I'm not looking to collaborate on anything at the moment
 - 📫 How to contact me, by discord: masuyonanami
